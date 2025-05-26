@@ -1,12 +1,1 @@
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iskochergin&theme=2077"
-    />
-    <img
-      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iskochergin&theme=vue"
-      alt="GitHub Stats for iskochergin"
-    />
-  </picture>
-</p>
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=iskochergin&show_icons=true&theme=dark&bg_color=00000000&title_color=01941f&text_color=8b949e&icon_color=01941f)

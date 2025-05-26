@@ -1,0 +1,10 @@
+{
+  "myDarkGreen": {
+    "titleColor": "006400",       // темно-зелёный
+    "iconColor": "006400",
+    "textColor": "8b949e",        // можно оставить
+    "bgColor": "0d1117",          // GitHub Dark background
+    "borderColor": "21262d",
+    "ringColor": "006400"
+  }
+}
