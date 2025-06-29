@@ -4,3 +4,5 @@
     alt="GitHub Stats" 
   />
 </p>
+
+<img src="https://raw.githubusercontent.com/suhaib3100/suhaib3100/output/snake.svg" alt="Snake animation" />
